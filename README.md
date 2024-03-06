@@ -20,8 +20,3 @@ The HR Analytics Dashboard project is designed to empower organizations in enhan
 ## License
 This project is licensed under the [MIT License]([link to license file](https://github.com/Dishantkharkar/HR-Analytics-Dashboard/blob/main/LICENSE)).
 
-## Acknowledgements
-- [Any acknowledgements or references]
-
-## Feedback
-Feedback, bug reports, and feature requests are welcome! Please submit them via [Issues](link to issues page).
