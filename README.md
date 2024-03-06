@@ -1,4 +1,6 @@
 # HR Analytics Dashboard
+## Dashboard
+![image](https://github.com/Dishantkharkar/HR-Analytics-Dashboard/assets/130529528/41468f13-eeba-41a9-b5a5-e1d2368a4a4a)
 
 ## Overview
 The HR Analytics Dashboard project aims to assist organizations in improving employee performance and retention by leveraging data analytics techniques to analyze HR data and create interactive visualizations. Through the development of a comprehensive dashboard, stakeholders can access actionable insights to make informed decisions regarding employee satisfaction, engagement, and attrition rates.
@@ -9,15 +11,6 @@ The HR Analytics Dashboard project aims to assist organizations in improving emp
 - Interactive visualization of HR metrics.
 - Real-time monitoring of employee performance and retention.
 - Insights and recommendations for improving organizational effectiveness.
-
-## Dashboard
-![image](https://github.com/Dishantkharkar/HR-Analytics-Dashboard/assets/130529528/41468f13-eeba-41a9-b5a5-e1d2368a4a4a)
-
-## Usage
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies (if any).
-3. Run the dashboard application.
-4. Explore the interactive visualizations and insights.
 
 ## License
 This project is licensed under the [MIT License](link to license file).
